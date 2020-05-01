@@ -34,7 +34,7 @@ function preload()
 }
 
 function setup() {
-  createCanvas(displayWidth,displayHeight);
+  createCanvas(displayWidth,displayHeight*2);
   database=firebase.database();
   
   
