@@ -1,0 +1,166 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+
+
+canvas {
+  display: block;
+  border:solid;
+}
+h2{
+  color:#FF0257;
+  
+  font-family: 'Kumar One Outline', cursive;
+  font-size: 1.5cm;
+  display:flex;
+  text-align: center;
+  justify-content:center;
+  border:solid;
+  border-left: 0.1cm;
+  border-right: 0.1cm;
+  border-color: #00B8B6;
+  transform: translate(-50%,-50%);
+
+  
+
+}
+image{
+  border:solid;
+}
+
+h1{
+  background-color: #FAF8D2;
+  color:#45395B;
+  font-family: 'Kumar One Outline', cursive;
+  font: 1.7 cm;
+  display:flex;
+  letter-spacing: 1px;
+  text-align: center;
+  padding:1%;
+  margin:10px;
+  border:solid;
+  border-color:  #FAF8D2;
+  border-radius: 110px;
+  justify-content:center;
+  transform: translate(-50%,-50%);
+
+  border-color: #45395B;
+  
+}
+
+
+
+
+h3{
+  
+  color:#45395B;
+  max-width: 200px;
+  word-wrap: break-word;
+  
+  font-family: 'Lato', sans-serif;
+  font-size: 0.5cm;
+  text-align: center;
+  
+  display:flex;
+  transform: translate(-50%,-50%);
+  justify-content:center;
+  
+}
+
+
+h4{
+  color:black;
+  max-width:10px;
+  word-wrap: break-word;
+  line-height: 60px; 
+  font-family:'Montserrat', sans-serif;
+  font-size: 0.4cm;
+  text-align: left;
+  text-transform: translate(-50%,-50%);
+  display:flex;
+ 
+  justify-content:center;
+  
+}
+
+
+h5{
+  color:black;
+  max-width:189px;
+  word-wrap: break-word; 
+  font-family:'Montserrat', sans-serif;
+  font-size: 0.4cm;
+  line-height: 60px;
+  text-align: left;
+  text-transform: translate(-50%,-50%);
+  display:flex;
+  padding-top: 10px;
+  justify-content:center;
+  
+}
+h6{
+  color:black;
+  max-width:120px;
+  line-height: 0.53cm;
+  word-wrap: break-word; 
+  line-height: 60px;
+  font-family:'Montserrat', sans-serif;
+  font-size: 0.4cm;
+  text-align: left;
+  text-transform: translate(-50%,-50%);
+  display:flex;
+  padding-top: 9.5px;
+  justify-content:center;
+  
+}
+
+
+
+
+*{
+  align-items: center;
+}
+
+input{
+  color:rgb(157, 2, 2);
+  background: none;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 1em;
+  
+  display:flex;
+  
+
+  text-align: center;
+  justify-content:center;
+  border:solid;
+  border-radius: 1000cm;
+  border-color:rgb(243, 107, 44);
+transform: translate(-50%,-50%);
+
+}
+
+button{
+  
+  background: none;
+  color:rgb(157, 2, 2);
+  font-family: 'Cutive Mono', monospace;
+  font-size: 1;
+  
+  display:flex;
+
+  text-align: center;
+  justify-content:space-between;
+  border:solid;
+  
+  border-radius: 1000cm;
+  border-color:rgb(243, 107, 44);
+  transform: translate(-50%,-50%);
+
+}
+
+
+
